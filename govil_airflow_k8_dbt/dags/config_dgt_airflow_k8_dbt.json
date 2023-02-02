@@ -1,0 +1,7 @@
+{
+  "Tag_Version": "1.0.3",
+  "ProjectGCP_Id": "dgt-gcp-egov-test-govilbi-0",
+  "artifact_registry": "eu.gcr.io",
+   "Dbt_project_Name": "dgt_govil_dbt1",
+  "registry_ProjectName": ""
+}
